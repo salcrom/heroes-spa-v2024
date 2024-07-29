@@ -26,7 +26,7 @@ export const SearchPage = () => {
 
         navigate(`?q=${searchText}`);
 
-        console.log({ searchText });
+        // console.log({ searchText });
     };
 
     return (
